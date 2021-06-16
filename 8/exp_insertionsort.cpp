@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 #define n 7
-//gcc -g -o bb exp_insertion.cpp -lstdc++
+//gcc -g -o b2 exp_insertion.cpp -lstdc++
 int main()
 {
     int i,k,X ;
