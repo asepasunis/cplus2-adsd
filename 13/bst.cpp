@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+using namespace std;
+//gcc -g -o b1 bst.cpp -lstdc++
 //inisialisasi struct
 struct data{
 	int number;
